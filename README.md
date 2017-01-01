@@ -1,5 +1,12 @@
 # VoodooHDA 2.8.9 Clover-V6
 
+Credit: Slice 
+Source: https://sourceforge.net/projects/voodoohda/
+Credit: Clover Team
+Credit: Testeurs: emax31, arcade33, MilesTEG1, PhilouFr, emilio36, fredsame, aminov41, sevan, JMB. 
+
+Packager chris1111
+
 This a app Package create with PackageMaker 
 
 VoodooHDA is an open source audio driver for devices compliant with the Intel High Definition Audio (HDA) specification.
