@@ -1,6 +1,6 @@
 # VoodooHDA 2.8.9 Clover-V6
 
-## Credit: Developer Slice ➠ Source: https://sourceforge.net/projects/voodoohda/
+##Credit: Developer Slice ➠ Source: https://sourceforge.net/projects/voodoohda/
 
 ## Credit: Clover Team
 
