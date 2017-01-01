@@ -1,12 +1,12 @@
 # VoodooHDA 2.8.9 Clover-V6
 
-##Credit: Developer Slice ➠ Source: https://sourceforge.net/projects/voodoohda/
+### Credit: Developer Slice ➠ Source: https://sourceforge.net/projects/voodoohda/
 
-## Credit: Clover Team
+### Credit: Clover Team
 
-## Credit: Testeurs: emax31, arcade33, MilesTEG1, PhilouFr, emilio36, fredsame, aminov41, sevan, JMB. 
+### Credit: Testeurs: emax31, arcade33, MilesTEG1, PhilouFr, emilio36, fredsame, aminov41, sevan, JMB. 
 
-## Packager chris1111
+### Packager chris1111
 
 This a app Package create with PackageMaker 
 
