@@ -18,16 +18,19 @@ Working for 10.12/10.11/10.10/10.9/10.8/10.7/10.6!
 
 ## Instructions
 
- ##Method-1 for Clover UEFI /ESP
+## Method-1 for Clover UEFI /ESP
+
 This installer will instal the VoodooHDA kernel extension on ESP / EFI/CLOVER/kexts/
 10.12/10.11/10.10/10.9/10.8/10.7/10.6
 The kext will be inject by Clover
 
 ## Method-2 for Clover Legacy
+
 You can also install VoodooHDA kernel extension on 10.12/10.11/10.10/10.9/10.8/10.7/10.6 
 The kext will be inject by Clover.
 
 ## Method-3
+
 You can also select Clasic method for 10.6 to 10.12
 and this will install the VoodooHDA.kext + AppleHDADisabler.kext on System Library Extensions
 
