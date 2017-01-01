@@ -8,7 +8,7 @@
 
 ### Packager chris1111
 
-This a app Package create with PackageMaker 
+This a Mac OS X Package create with PackageMaker 
 
 VoodooHDA is an open source audio driver for devices compliant with the Intel High Definition Audio (HDA) specification.
 It is intended as an Intel-only replacement for AppleHDA on Mac OS X with support for a wide range of audio controllers and codecs.
