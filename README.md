@@ -1,6 +1,6 @@
-# VoodooHDA 2.8.9 Clover-V6
+# VoodooHDA 2.9.0-V10
 
-### Credit: Developer Slice ➠ Source: https://sourceforge.net/projects/voodoohda/
+### Credit: Developer Slice, Zenith432 ➠ Source: https://sourceforge.net/projects/voodoohda/
 
 ### Credit: Clover Team
 
@@ -35,13 +35,12 @@ You can also select Clasic method for 10.6 to 10.12
 and this will install the VoodooHDA.kext + AppleHDADisabler.kext on System Library Extensions
 
 This will install also VoodooHdaSettingsLoader.app
-on Applications and VoodooHDA.prefPane on System 
-System / Library / PreferencePanes  
+on Applications and VoodooHDA.prefPane on Library / PreferencePanes  
 Install getdump on usr/local/bin/getdump
 in both methods.
 
 Note:
-For MacOS Sierra and Snow Leopard VoodooHDA.prefPane is installed on Library/PreferancesPanes
+For all OS X System VoodooHDA.prefPane is installed on Library/PreferancesPanes
 
 
 [![Modular Image Creation](https://i37.servimg.com/u/f37/18/50/18/69/voodoo11.png)]()
