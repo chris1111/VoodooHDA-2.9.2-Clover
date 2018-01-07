@@ -1,4 +1,5 @@
-# VoodooHDA 2.9.0-V11
+# VoodooHDA 2.9.0-V11 
+## ( Support macOS High Sierra ) 
 
 ### Credit: Developer Slice, Zenith432 ➠ Source: https://sourceforge.net/projects/voodoohda/
 
