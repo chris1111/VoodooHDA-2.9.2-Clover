@@ -1,15 +1,12 @@
 # VoodooHDA 2.9.0-V11 
 ## ( Support macOS High Sierra ) 
 
-### Credit: Developer Slice, Zenith432 ➠ Source: https://sourceforge.net/projects/voodoohda/
+## Credit: Developer Slice, Zenith432 ➠ Source: https://sourceforge.net/projects/voodoohda/
+Credit: Clover Team
+Credit: Testeurs: emax31, arcade33, MilesTEG1, PhilouFr, emilio36, fredsame, aminov41, sevan, JMB. 
+Credit: Packager chris1111
 
-### Credit: Clover Team
-
-### Credit: Testeurs: emax31, arcade33, MilesTEG1, PhilouFr, emilio36, fredsame, aminov41, sevan, JMB. 
-
-### Packager chris1111
-
-This a Mac OS X Package create with PackageMaker 
+This a Mac OS X Package
 
 VoodooHDA is an open source audio driver for devices compliant with the Intel High Definition Audio (HDA) specification.
 It is intended as an Intel-only replacement for AppleHDA on Mac OS X with support for a wide range of audio controllers and codecs.
@@ -17,7 +14,7 @@ It is intended as an Intel-only replacement for AppleHDA on Mac OS X with suppor
 Working for 10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6!  
 
 
-## Instructions
+## Instructions: You need Existing Clover V2.4k, this did not install Clover, only VoodooHDA as well as the component has its functioning.
 
 ## Method-1 for Clover UEFI /ESP
 
