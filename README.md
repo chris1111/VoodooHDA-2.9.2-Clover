@@ -14,7 +14,7 @@ It is intended as an Intel-only replacement for AppleHDA on Mac OS X with suppor
 Working for 10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6!  
 
 
-## Instructions: You need Existing Clover V2.4k, this did not install Clover, only VoodooHDA as well as the component has its functioning.
+### Instructions: You need Existing Clover V2.4k, this did not install Clover, only VoodooHDA as well as the component has its functioning.
 
 ## Method-1 for Clover UEFI /ESP
 
