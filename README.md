@@ -16,18 +16,18 @@ Working for 10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6!
 
 ### Instructions: You need Existing Clover V2.4k. This does not install Clover, it will install only VoodooHDA and the other required components to its proper function.
 
-## Method-1 for Clover UEFI /ESP
+### Method-1 for Clover UEFI /ESP
 This program can install VoodooHDA kernel extension on ESP Partition /EFI/CLOVER/kexts/10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6
-It's up to you
+It's up to you to choose witch one
 The kext will be inject by Clover
 
-## Method-2 for Clover Legacy
+### Method-2 for Clover Legacy
 This program can install VoodooHDA kernel extension on /EFI/CLOVER/kexts/10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6
-It's up to you
+It's up to you to choose witch one
 The kext will be inject by Clover
 
 
-## Method-3 Clasic Method
+### Method-3 Clasic Method
 You can also select Clasic method for 10.6 to 10.13
 and this will install the VoodooHDA.kext + AppleHDADisabler.kext on /System /Library /Extensions
 
