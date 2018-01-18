@@ -35,7 +35,7 @@ Install getdump on usr/local/bin/getdump for all methods methods.
 
 ### Note:
 For all OS X System VoodooHDA.prefPane is installed on Library/PreferancesPanes
-### Usage: Download the Latest Release [Download ➤ VoodooHDA 2.9.0-V11 ](https://github.com/chris1111/VoodooHDA-2.9.0-Clover-V11/releases/tag/V11)
+### Usage: Download the Latest Release [Download ➤ VoodooHDA 2.9.0-V11 ](https://github.com/chris1111/VoodooHDA-2.9.0-Clover-V11/releases)
 
 ### Follow every steps in the Video
 
