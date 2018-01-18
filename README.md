@@ -1,10 +1,10 @@
 # VoodooHDA 2.9.0-V11 
-## ( Support macOS High Sierra ) 
+## (Support macOS High Sierra) 
 
-## Credit: Developer Slice, Zenith432 ➠ Source: https://sourceforge.net/projects/voodoohda/
-Credit: Clover Team
-Credit: Testeurs: emax31, arcade33, MilesTEG1, PhilouFr, emilio36, fredsame, aminov41, sevan, JMB. 
-Credit: Packager chris1111
+### Credit: Developer Slice, Zenith432 ➠ Source: https://sourceforge.net/projects/voodoohda/
+### Credit: Clover Team
+### Credit: Testeurs: emax31, arcade33, MilesTEG1, PhilouFr, emilio36, fredsame, aminov41, sevan, JMB. 
+### Credit: Packager chris1111
 
 This a Mac OS X Package
 
