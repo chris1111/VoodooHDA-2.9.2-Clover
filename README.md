@@ -18,13 +18,11 @@ Working for 10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6!
 
 ### Method-1 for Clover UEFI /ESP
 This program can install VoodooHDA kernel extension on ESP Partition /EFI/CLOVER/kexts/10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6
-### It's up to you to choose witch one
-The kext will be inject by Clover
+### It's up to you to choose witch one. The kext will be inject by Clover
 
 ### Method-2 for Clover Legacy
 This program can install VoodooHDA kernel extension on /EFI/CLOVER/kexts/10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6
-### It's up to you to choose witch one
-The kext will be inject by Clover
+### It's up to you to choose witch one. The kext will be inject by Clover
 
 
 ### Method-3 Clasic Method
