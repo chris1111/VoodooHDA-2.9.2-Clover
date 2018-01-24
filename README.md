@@ -33,6 +33,10 @@ This will install also VoodooHdaSettingsLoader.app
 on Applications and VoodooHDA.prefPane on Library / PreferencePanes  
 Install getdump on usr/local/bin/getdump for all methods methods.
 
+### Common issue [Common issue ➤ VoodooHDA ](http://www.insanelymac.com/forum/topic/267905-voodoohda-common-problems/)
+
+### Any issue post here [Main topic ➤ VoodooHDA ](http://www.insanelymac.com/forum/topic/314406-voodoohda-290/)
+
 ### Note:
 For all OS X System VoodooHDA.prefPane is installed on Library/PreferancesPanes
 ### Usage: Download the Latest Release [Download ➤ VoodooHDA 2.9.0-V11 ](https://github.com/chris1111/VoodooHDA-2.9.0-Clover-V11/releases) Choose the option you want, install and reboot. 
