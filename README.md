@@ -3,7 +3,9 @@
 
 ### Credit: Developer Slice, Zenith432 ➠ Source: https://sourceforge.net/projects/voodoohda/
 ### Credit: Clover Team
-### Credit: Testeurs: emax31, arcade33, MilesTEG1, PhilouFr, emilio36, fredsame, aminov41, sevan, JMB. 
+### Credit: Testeurs: emax31, arcade33, MilesTEG1, PhilouFr, emilio36, fredsame, aminov41, sevan, JMB.
+### MountEFI Script 10.13 Credit:RehabMan
+
 ### Credit: Packager chris1111
 
 ### This is a Mac OS X Package
