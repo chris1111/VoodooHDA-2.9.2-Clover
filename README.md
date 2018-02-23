@@ -4,7 +4,7 @@
 ### Credit: Developer Slice, Zenith432 ➠ Source: https://sourceforge.net/projects/voodoohda/
 ### Credit: Clover Team
 ### Credit: Testeurs: emax31, arcade33, MilesTEG1, PhilouFr, emilio36, fredsame, aminov41, sevan, JMB.
-### MountEFI Script 10.13 Credit:RehabMan
+### MountEFI Script 10.13 Credit:Clover Team
 
 ### Credit: Packager chris1111
 
