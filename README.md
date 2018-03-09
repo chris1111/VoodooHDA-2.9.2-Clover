@@ -46,4 +46,4 @@ For all OS X System VoodooHDA.prefPane is installed on Library/PreferancesPanes
 
 ### Follow every steps in the Video
 
-[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/frame-10.jpg)](https://www.hackintosh-montreal.com/h30-voodoohda-repos)
+[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/68747411.jpg)](https://www.hackintosh-montreal.com/h30-voodoohda-repos)
