@@ -3,7 +3,8 @@
 
 ### This is a Mac OS X Package
 
-### Credit: Developer Slice, Zenith432, autumnrain ➠ Source: https://sourceforge.net/projects/voodoohda/
+### Credit:
+- Developer Slice, Zenith432, autumnrain ➠ Source: https://sourceforge.net/projects/voodoohda/
 - MountEFI Script 10.13 Clover Team
 - Testeurs: emax31, arcade33, MilesTEG1, PhilouFr, emilio36, fredsame, aminov41, sevan, JMB.
 - Packager chris1111
