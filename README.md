@@ -1,14 +1,13 @@
 # VoodooHDA 2.9.0-V11 
-## (Support macOS High Sierra) 
-
-### Credit: Developer Slice, Zenith432 ➠ Source: https://sourceforge.net/projects/voodoohda/
-### Credit: Clover Team
-### Credit: Testeurs: emax31, arcade33, MilesTEG1, PhilouFr, emilio36, fredsame, aminov41, sevan, JMB.
-### MountEFI Script 10.13 Credit:Clover Team
-
-### Credit: Packager chris1111
+## (Support macOS High Sierra)
 
 ### This is a Mac OS X Package
+
+### Credit: Developer Slice, Zenith432, autumnrain ➠ Source: https://sourceforge.net/projects/voodoohda/
+- MountEFI Script 10.13 Clover Team
+- Testeurs: emax31, arcade33, MilesTEG1, PhilouFr, emilio36, fredsame, aminov41, sevan, JMB.
+- Packager chris1111
+
 
 VoodooHDA is an open source audio driver for devices compliant with the Intel High Definition Audio (HDA) specification.
 It is intended as an Intel-only replacement for AppleHDA on Mac OS X with support for a wide range of audio controllers and codecs.
