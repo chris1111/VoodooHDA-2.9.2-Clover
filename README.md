@@ -14,7 +14,8 @@ VoodooHDA is an open source audio driver for devices compliant with the Intel Hi
 It is intended as an Intel-only replacement for AppleHDA on Mac OS X with support for a wide range of audio controllers and codecs. Working for 10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6!  
 
 
-### Instructions: You need Existing Clover V2.4k. This does not install Clover, it will install only VoodooHDA and the other required components to its proper function.
+### Instructions: 
+- You need Existing Clover V2.4k. This does not install Clover, it will install only VoodooHDA and the other required components to its proper function.
 
 ### Method-1 for Clover UEFI /ESP
 - This program can install VoodooHDA kernel extension on ESP Partition /EFI/CLOVER/kexts/10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6
