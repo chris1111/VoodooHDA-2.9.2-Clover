@@ -33,7 +33,7 @@ and this will install the VoodooHDA.kext + AppleHDADisabler.kext on /System /Lib
 
 This will install also VoodooHdaSettingsLoader.app
 on Applications and VoodooHDA.prefPane on Library / PreferencePanes  
-.Install getdump on usr/local/bin/getdump for all or all the methods mentioned
+getdump is installed on usr/local/bin/getdump for all the methods mentioned
 
 ### Common issue [Common issue ➤ VoodooHDA ](http://www.insanelymac.com/forum/topic/267905-voodoohda-common-problems/)
 
