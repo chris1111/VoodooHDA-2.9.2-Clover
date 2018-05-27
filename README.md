@@ -19,21 +19,20 @@ Working for 10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6!
 ### Instructions: You need Existing Clover V2.4k. This does not install Clover, it will install only VoodooHDA and the other required components to its proper function.
 
 ### Method-1 for Clover UEFI /ESP
-This program can install VoodooHDA kernel extension on ESP Partition /EFI/CLOVER/kexts/10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6
+- This program can install VoodooHDA kernel extension on ESP Partition /EFI/CLOVER/kexts/10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6
 ### It's up to you to choose witch one. The kext will be inject by Clover
 
 ### Method-2 for Clover Legacy
-This program can install VoodooHDA kernel extension on /EFI/CLOVER/kexts/10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6
+- This program can install VoodooHDA kernel extension on /EFI/CLOVER/kexts/10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6
 ### It's up to you to choose witch one. The kext will be inject by Clover
 
 
 ### Method-3 Clasic Method
-You can also select Clasic method for 10.6 to 10.13
-and this will install the VoodooHDA.kext + AppleHDADisabler.kext on /System /Library /Extensions
+- You can also select Clasic method for 10.6 to 10.13
+- This will install the VoodooHDA.kext + AppleHDADisabler.kext on /System /Library /Extensions
+- This will install also VoodooHdaSettingsLoader.app on Applications and VoodooHDA.prefPane on Library / PreferencePanes  
 
-This will install also VoodooHdaSettingsLoader.app
-on Applications and VoodooHDA.prefPane on Library / PreferencePanes  
-getdump is installed on usr/local/bin/getdump for all the methods mentioned
+### getdump is installed on usr/local/bin/getdump for all the methods mentioned
 
 ### Common issue [Common issue ➤ VoodooHDA ](http://www.insanelymac.com/forum/topic/267905-voodoohda-common-problems/)
 
