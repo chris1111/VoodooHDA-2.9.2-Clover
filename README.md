@@ -31,11 +31,8 @@ It is intended as an Intel-only replacement for AppleHDA on Mac OS X with suppor
 - This will install the VoodooHDA.kext + AppleHDADisabler.kext on /System /Library /Extensions
 - This will install also VoodooHdaSettingsLoader.app on Applications and VoodooHDA.prefPane on Library / PreferencePanes  
 
-### getdump is installed on usr/local/bin/getdump for all the methods mentioned
-
-### Common issue [Common issue ➤ VoodooHDA ](http://www.insanelymac.com/forum/topic/267905-voodoohda-common-problems/)
-
-### Any issue post here [Main topic ➤ VoodooHDA ](http://www.insanelymac.com/forum/topic/314406-voodoohda-290/)
+### getdump
+- getdump is installed on usr/local/bin/getdump for all the methods mentioned
 
 ### VoodooHDA.prefPane
 - For all OS X System VoodooHDA.prefPane is installed on Library/PreferancesPanes
@@ -43,6 +40,10 @@ It is intended as an Intel-only replacement for AppleHDA on Mac OS X with suppor
 ### Usage: Download the Latest Release [Download ➤ VoodooHDA 2.9.0-V11 ](https://github.com/chris1111/VoodooHDA-2.9.0-Clover-V11/releases) Choose the option you want, install and reboot. 
 
 ### Verry important to Reboot for the changes to be applied.
+
+### Common issue [Common issue ➤ VoodooHDA ](http://www.insanelymac.com/forum/topic/267905-voodoohda-common-problems/)
+
+### Any issue post here [Main topic ➤ VoodooHDA ](http://www.insanelymac.com/forum/topic/314406-voodoohda-290/)
 
 ### Follow every steps in the Video
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/68747411.jpg)](https://www.hackintosh-montreal.com/h30-voodoohda-repos)
