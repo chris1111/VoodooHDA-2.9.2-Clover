@@ -18,7 +18,7 @@ It is intended as an Intel-only replacement for AppleHDA on Mac OS X with suppor
 - You need Existing Clover V2.4k. This does not install Clover, it will install only VoodooHDA and the other required components to its proper function.
 
 ### Method-1 for Clover UEFI /ESP
-- This program can install VoodooHDA kernel extension on ESP Partition /EFI/CLOVER/kexts/10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6
+- This program can install VoodooHDA kernel extension on ESP (EFI System Partition) /EFI/CLOVER/kexts/10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6
 - It's up to you to choose witch one. The kext will be inject by Clover
 
 ### Method-2 for Clover Legacy
