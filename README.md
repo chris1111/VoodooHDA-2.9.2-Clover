@@ -11,9 +11,7 @@
 
 
 VoodooHDA is an open source audio driver for devices compliant with the Intel High Definition Audio (HDA) specification.
-It is intended as an Intel-only replacement for AppleHDA on Mac OS X with support for a wide range of audio controllers and codecs.
- 
-Working for 10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6!  
+It is intended as an Intel-only replacement for AppleHDA on Mac OS X with support for a wide range of audio controllers and codecs. Working for 10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6!  
 
 
 ### Instructions: You need Existing Clover V2.4k. This does not install Clover, it will install only VoodooHDA and the other required components to its proper function.
@@ -38,11 +36,12 @@ Working for 10.13/10.12/10.11/10.10/10.9/10.8/10.7/10.6!
 
 ### Any issue post here [Main topic ➤ VoodooHDA ](http://www.insanelymac.com/forum/topic/314406-voodoohda-290/)
 
-### Note:
-For all OS X System VoodooHDA.prefPane is installed on Library/PreferancesPanes
+### VoodooHDA.prefPane
+- For all OS X System VoodooHDA.prefPane is installed on Library/PreferancesPanes
+
 ### Usage: Download the Latest Release [Download ➤ VoodooHDA 2.9.0-V11 ](https://github.com/chris1111/VoodooHDA-2.9.0-Clover-V11/releases) Choose the option you want, install and reboot. 
+
 ### Verry important to Reboot for the changes to be applied.
 
 ### Follow every steps in the Video
-
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/68747411.jpg)](https://www.hackintosh-montreal.com/h30-voodoohda-repos)
