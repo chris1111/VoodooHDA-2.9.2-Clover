@@ -1,5 +1,5 @@
 # VoodooHDA 2.9.0-V12 
-## (Support macOS Mojave)
+## (Support macOS Mojave 10.14)
 
 ### This is a Mac OS X Package
 
