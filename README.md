@@ -37,7 +37,7 @@ It is intended as an Intel-only replacement for AppleHDA on Mac OS X with suppor
 ### VoodooHDA.prefPane
 - For all OS X System VoodooHDA.prefPane is installed on Library/PreferancesPanes
 
-### Usage: Download the Latest Release [Download ➤ VoodooHDA 2.9.0-V12 ](https://github.com/chris1111/VoodooHDA-2.9.0-Clover-V11/releases) Choose the option you want, install and reboot. 
+### Usage: Download the Latest Release [Download ➤ VoodooHDA 2.9.0-V12 ](https://github.com/chris1111/VoodooHDA-2.9.0-Clover-V12/releases/tag/V12) Choose the option you want, install and reboot. 
 
 ### Verry important to Reboot for the changes to be applied.
 
