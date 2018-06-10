@@ -46,4 +46,4 @@ It is intended as an Intel-only replacement for AppleHDA on Mac OS X with suppor
 ### Any issue post here [Main topic ➤ VoodooHDA ](http://www.insanelymac.com/forum/topic/314406-voodoohda-290/)
 
 ### Follow every steps in the Video
-[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/68747411.jpg)](https://www.hackintosh-montreal.com/h30-voodoohda-repos)
+[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/68747411.jpg)](https://youtu.be/p4Rl68uY6-E)
