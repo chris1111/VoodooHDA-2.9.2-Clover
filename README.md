@@ -26,7 +26,7 @@ It is intended as an Intel-only replacement for AppleHDA on Mac OS X with suppor
 - It's up to you to choose witch one. The kext will be inject by Clover
 
 
-### Method-3 Clasic Method (Works for Hackintosh and real Mac)
+### Method-3 Clasic Method 
 - You can also select Clasic method for 10.6 to 10.14
 - This will install the VoodooHDA.kext + AppleHDADisabler.kext on /System /Library /Extensions
 - This will install also VoodooHdaSettingsLoader.app on Applications and VoodooHDA.prefPane on Library / PreferencePanes  
