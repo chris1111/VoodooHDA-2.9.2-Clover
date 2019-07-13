@@ -1,5 +1,7 @@
 # VoodooHDA 2.9.2-V14 
-## (Support macOS Catalina 10.15 Beta-2)
+## (Support macOS Catalina 10.15 Beta-3)
+- Latest Update 13 July 2019 Add missing AppleHDADisabler.kext for 10.15 Clasic mode
+New background support dark mode
 
 ### This is a Mac OS X Package
 
