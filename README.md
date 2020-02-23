@@ -5,7 +5,8 @@
 
 
 ## (Support macOS Catalina 10.15)
-- Latest Update 13 July 2019 Add missing AppleHDADisabler.kext for 10.15 Clasic mode.
+- Latest Update 23 Fev 2020 Adapted for macOS Catalina 10.15.4 Remove VoodooHdaSettingsLoader.app which is not necessary.
+- Update 13 July 2019 Add missing AppleHDADisabler.kext for 10.15 Clasic mode.
 - New background support dark mode.
 
 ### This is a Mac OS X Package
@@ -44,7 +45,7 @@ It is intended as an Intel-only replacement for AppleHDA on Mac OS X with suppor
 ### VoodooHDA.prefPane
 - For all OS X System VoodooHDA.prefPane is installed on Library/PreferancesPanes
 
-### Usage: Download the Latest Release ➣ [VoodooHDA 2.9.2 Clover-V14](https://github.com/chris1111/VoodooHDA-2.9.2-Clover-V13/releases/tag/V-14) Choose the option you want, install and reboot. 
+### Usage: Download the Latest Release ➣ [VoodooHDA 2.9.2 Clover-V15](https://github.com/chris1111/VoodooHDA-2.9.2-Clover-V13/releases/tag/V-15) Choose the option you want, install and reboot. 
 
 ### Verry important to Reboot for the changes to be applied.
 
