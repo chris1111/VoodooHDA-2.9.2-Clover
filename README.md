@@ -5,7 +5,7 @@
 
 
 ## (Support macOS Catalina 10.15)
-- Latest Update 23 Fev 2020 Adapted for macOS Catalina 10.15.4 Remove VoodooHdaSettingsLoader.app which is not necessary.
+- Latest Update 23 Feb 2020 Adapted for macOS Catalina 10.15.4 Remove VoodooHdaSettingsLoader.app which is not necessary.
 - Update 13 July 2019 Add missing AppleHDADisabler.kext for 10.15 Clasic mode.
 - New background support dark mode.
 
