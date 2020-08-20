@@ -45,7 +45,10 @@ It is intended as an Intel-only replacement for AppleHDA on Mac OS X with suppor
 ### VoodooHDA.prefPane
 - For all OS X System VoodooHDA.prefPane is installed on Library/PreferancesPanes
 
-### Usage: Download the Latest Release ➣ [VoodooHDA 2.9.2 Clover-V15](https://github.com/chris1111/VoodooHDA-2.9.2-Clover-V13/releases/tag/V15) Choose the option you want, install and reboot. 
+### Usage: Download the Latest Release ➣ [VoodooHDA 2.9.2 Clover-V15](https://github.com/chris1111/VoodooHDA-2.9.2-Clover-V13/releases/tag/V15) Choose the option you want, install and reboot.
+
+### View ➣ [➤ You must have set injectkexts to Yes in the Clover config.plist](https://i25.servimg.com/u/f25/18/50/18/69/captu819.png)
+
 
 ### Verry important to Reboot for the changes to be applied.
 
