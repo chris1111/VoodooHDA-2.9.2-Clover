@@ -1,4 +1,4 @@
-# VoodooHDA 2.9.2-V15 
+# VoodooHDA 2.9.2
 ### For OpenCore ➠ https://github.com/chris1111/VoodooHDA-OC
 
 ## (Support macOS Catalina 10.15)
