@@ -1,7 +1,7 @@
 # VoodooHDA 2.9.2
 ### For OpenCore ➠ https://github.com/chris1111/VoodooHDA-OC
 
-## (Support macOS Catalina 10.15)
+## (Support macOS Catalina 10.15 and Lower)
 - Latest Update 23 Feb 2020 Adapted for macOS Catalina 10.15.4 Remove VoodooHdaSettingsLoader.app which is not necessary.
 - Update 13 July 2019 Add missing AppleHDADisabler.kext for 10.15 Clasic mode.
 - New background support dark mode.
